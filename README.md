@@ -246,10 +246,6 @@ curl http://localhost:5000/api/Relatorios/TotaisPorPessoa
 - ✅ Feedback visual para o usuário
 - ✅ Código documentado
 
-## 📄 Licença
-
-Este projeto foi desenvolvido como teste técnico e está disponível para uso educacional.
-
 ## 👨‍💻 Desenvolvedor
 
 Sistema desenvolvido seguindo as especificações do teste técnico com foco em:
