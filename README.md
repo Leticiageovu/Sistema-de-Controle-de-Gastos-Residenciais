@@ -31,6 +31,18 @@ Sistema completo para gerenciamento de gastos residenciais, desenvolvido com Web
 - Lista todas as categorias com total de receitas, despesas e saldo
 - Exibe total geral ao final (soma de todas as categorias)
 
+## Imagens do Sistema de Controle de Gastos Residenciais
+
+<img width="1440" height="817" alt="pessoas" src="https://github.com/user-attachments/assets/72f5c879-491e-42ea-93ad-6de3854ba5c1" />
+
+<img width="1433" height="814" alt="categorias" src="https://github.com/user-attachments/assets/f9db6499-e4a4-4817-a4c4-f9f5ecb02028" />
+
+<img width="1156" height="875" alt="transações" src="https://github.com/user-attachments/assets/7db357a6-39be-4225-9639-5760712ed94f" />
+
+<img width="1433" height="808" alt="Relatórios por pessoas" src="https://github.com/user-attachments/assets/074ef216-5e9c-4efa-8d21-9ac22b722881" />
+
+<img width="1409" height="812" alt="relatorios por categorias" src="https://github.com/user-attachments/assets/5059ca91-4ca2-4769-9553-4f45e80f9cac" />
+
 ## 🛠️ Tecnologias Utilizadas
 
 ### Backend
